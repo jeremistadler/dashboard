@@ -1,0 +1,25 @@
+{
+  "name": "dashboard",
+  "version": "0.0.1",
+  "description": "Dashboard for different purpuses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremistadler/dashboard.git"
+  },
+  "author": "Jeremi Stadler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremistadler/dashboard/issues"
+  },
+  "homepage": "https://github.com/jeremistadler/dashboard#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.4.8",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.3.1"
+  }
+}
