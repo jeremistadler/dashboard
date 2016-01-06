@@ -16,7 +16,9 @@
     "url": "https://github.com/jeremistadler/dashboard/issues"
   },
   "homepage": "https://github.com/jeremistadler/dashboard#readme",
-  "dependencies": {},
+  "dependencies": {
+    "d3": "^3.5.12"
+  },
   "devDependencies": {
     "angular": "^1.4.8",
     "gulp": "^3.9.0",

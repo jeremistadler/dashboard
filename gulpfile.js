@@ -3,6 +3,7 @@ var connect = require('gulp-connect');
 
 gulp.task('scripts', function() {
   return gulp.src([
+      'node_modules/d3/d3.js',
       'node_modules/angular/angular.js',
       'src/app.js',
       'src/clouds/clouds.js'
